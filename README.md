@@ -1,2 +1,2 @@
-# Starting-point-hopefully-
+# Starting-point
 learning how to code
